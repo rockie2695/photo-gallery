@@ -1,3 +1,3 @@
 # photo-gallery
-ionic
+ionic with angular
 https://ionicframework.com/docs/angular/overview
