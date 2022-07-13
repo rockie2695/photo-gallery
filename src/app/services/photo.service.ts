@@ -20,7 +20,7 @@ export class PhotoService {
   private platform: Platform;
 
   constructor(platform: Platform) {
-    this.platform = platform;∏
+    this.platform = platform;
   }
 
   public async addNewToGallery() {
